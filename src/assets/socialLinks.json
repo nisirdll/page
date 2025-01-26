@@ -2,37 +2,37 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "tip": "个人Github",
+    "url": "https://github.com/nisirdll"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "url": "https://space.bilibili.com/87213980"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "tip": "通过QQ联系我",
+    "url": "https://res.abeim.cn/api/qq/?qq=3463374238"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "tip": "通过Email联系我",
+    "url": "nisir109@outlook.com"
   },
   {
-    "name": "Twitter",
+    "name": "X",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "tip": "我的X主页",
+    "url": "https://x.com/donglaoliu"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "tip": "通过Tel联系我",
+    "url": "https://t.me/"
   }
 ]
